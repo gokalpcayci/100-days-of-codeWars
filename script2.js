@@ -6,4 +6,4 @@ const spinWords = function (string) {
   }
   return arr;
 };
-spinWords('hello my name is gokalp');
+
